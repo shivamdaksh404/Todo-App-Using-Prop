@@ -52,6 +52,7 @@
 
 .task-list .task.completed {
   background-color: #97ec97ce;
+  color: rgb(175, 175, 175);
 }
 
 .task-list .task span {
